@@ -1,5 +1,5 @@
 ![hello there gif](https://user-images.githubusercontent.com/107738986/193397998-15f587a4-8c8d-4c9c-a335-ff341c442b83.gif)
-### Welcome👋
+### Welcome👋<br/><br/>
 
 Looks like I've piqued your interest.<br/>
 My name's Ken and I am a Full Stack Developer based in Downtown Chicago. <br/>
