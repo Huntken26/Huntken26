@@ -1,5 +1,5 @@
 ![hello there gif](https://user-images.githubusercontent.com/107738986/193397998-15f587a4-8c8d-4c9c-a335-ff341c442b83.gif)
-### Welcome👋<br/><br/>
+### Welcome👋<br/><br/><br/>
 
 Looks like I've piqued your interest.<br/>
 My name's Ken and I am a Full Stack Developer based in Downtown Chicago. <br/>
@@ -15,6 +15,7 @@ As a result I am currently learning some UX/UI principles so that I can further 
 Some of my passions include playing a challenging game of chess, riding my bike along the lakefront downtown,<br/>
 and trying out new recipes in the kitchen. I am very enthusiastic in the workplace and I love to encourage <br/>others to reach their potential as well:chart_with_upwards_trend:. <br/>
 ___
+
 I look forward to hearing from you:soon:<br/>
 
 Here is my (OLD) porfolio :open_file_folder:: [Portfolio](https://huntken26.github.io/portfolio/)<br/>
