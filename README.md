@@ -18,9 +18,9 @@ ___
 
 I look forward to hearing from you:soon:<br/>
 
-Here is my (OLD) porfolio :open_file_folder:: [Portfolio](https://huntken26.github.io/portfolio/)<br/>
+Here is my porfolio :open_file_folder:: [Portfolio](https://huntken26.github.io/myPortfolio/)<br/>
 
-here is my (new) Resume :page_with_curl:: [Resume Doc](https://docs.google.com/document/d/1_gxyKok86Q12vxlxo4zlTrzHp5G3M0JT/edit?usp=sharing&ouid=104734253715428602881&rtpof=true&sd=true)
+here is my Resume :page_with_curl:: [Resume Doc](https://docs.google.com/document/d/1_gxyKok86Q12vxlxo4zlTrzHp5G3M0JT/edit?usp=sharing&ouid=104734253715428602881&rtpof=true&sd=true)
 
 Here is my Calendly Link :calendar:: https://calendly.com/huntken26/30min
 
