@@ -11,8 +11,7 @@ I have an eye for concise code. If there is a simple and efficient way of reachi
 I also have a creative side:art:. I love being able to curate the aesthetic and experience of a web application. <br/>
 As a result I am currently learning some UX/UI principles so that I can further explore these aspects as a Web Developer.<br/>
 
-Some of my passions include playing a challenging game of chess, riding my bike downtown along the lakefront,<br/>
-and trying out new recipes in the kitchen. I am very enthusiastic in the workplace and I love to encourage <br/>others to reach their potential as well:chart_with_upwards_trend:. <br/>
+I am very enthusiastic in the workplace and I love to encourage <br/>others to reach their potential as well:chart_with_upwards_trend:. <br/>
 ___
 
 I look forward to hearing from you:soon:<br/>
