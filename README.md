@@ -7,7 +7,7 @@ ___
 In 2022 I joined a Full Stack Developer Bootcamp and cultivated many skills including :muscle:: <br/>
 JavaScript | HTML | CSS | React.js | Apollo GraphQL | Bootstrap | Node.js | Express.js | MongoDB | MySQL | <br/>
 I've also learned other technologies including :computer:: Heroku | GitHub/ GitLab | Canva and so on.<br/><br/>
-I have an eye for concise code. <br/>
+I have an eye for concise code.
 I also have a creative side:art: <br/>
 As a result I am currently learning some UX/UI principles, Python and AWS so that I can further develop my skills as a Developer.<br/>
 
