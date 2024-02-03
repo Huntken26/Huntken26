@@ -16,12 +16,6 @@ ___
 
 I look forward to hearing from you:soon:<br/>
 
-Here is my porfolio :open_file_folder:: [Portfolio](https://huntken26.github.io/hunter-portfolio/)<br/>
-
-here is my Resume :page_with_curl:: [Resume Doc](https://docs.google.com/document/d/1_gxyKok86Q12vxlxo4zlTrzHp5G3M0JT/edit?usp=sharing&ouid=104734253715428602881&rtpof=true&sd=true)
-
-Here is my Calendly Link :calendar:: https://calendly.com/huntken26/30min
-
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
